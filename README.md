@@ -9,7 +9,7 @@
 - **[Andini Nur Izzatu]** - [121450147]
 
 ## Deskripsi Proyek
-**PD-L1 (Programmed Death-Ligand 1)**
-Fungsi: Protein checkpoint imun yang berikatan dengan PD-1, menghambat respons imun.
-Penyakit: Berbagai jenis kanker.
+**PD-L1 (Programmed Death-Ligand 1)**\
+Fungsi: Protein checkpoint imun yang berikatan dengan PD-1, menghambat respons imun.\
+Penyakit: Berbagai jenis kanker.\
 Mengapa menarik: Menghambat interaksi PD-L1/PD-1 meningkatkan respons imun terhadap tumor. Screening virtual membantu dalam pencarian molekul kecil dan peptida yang dapat memblokir interaksi PD-L1 sebagai alternatif terhadap antibodi monoklonal.
