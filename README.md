@@ -6,7 +6,7 @@
 - **[Hanna Sajidah]** - [121450060]
 - **[Ari Sigit]** - [121450069]
 - **[Silvina Rizqy Nur Auliya]** - [121450089]
-- **[Andini Nur Izzatu]** - [121450147]
+- **[Andini Nur Izzati]** - [121450147]
 
 ## Deskripsi Proyek
 **PD-L1 (Programmed Death-Ligand 1)**\
